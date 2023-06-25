@@ -1,0 +1,16 @@
+#users{
+	text-align: center;
+	width: 400px;
+	margin: auto;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #e9eaed;
+}
+#users .input{
+	padding: 10px;
+	border-block: none;
+    width: 280px;
+    margin: 5px 0;
+    border-radius: 5px;
+    
+}
